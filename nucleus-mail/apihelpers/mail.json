@@ -1,0 +1,9 @@
+{
+	"to" : "sreya@mail.com,new@gmail.com",
+	"from" : "rohit@gmail.com",
+	"name" : "rohit",
+	"subject" : "subject",
+	"phone" : "9446127412",
+	"body" : "mail server test",
+	"html" : "<p>hai</p>"
+}
